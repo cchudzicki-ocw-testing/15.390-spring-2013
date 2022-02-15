@@ -9,6 +9,5 @@ parent_title: Assignment 12
 parent_type: CourseSection
 resourcetype: Document
 title: Final business plan evaluation sheet
-type: OCWFile
 uid: ba6cb9b8-4a00-386a-6f18-c13492b541bb
 ---

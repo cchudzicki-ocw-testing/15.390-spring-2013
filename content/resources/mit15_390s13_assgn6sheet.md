@@ -9,6 +9,5 @@ parent_title: Assignment 6
 parent_type: CourseSection
 resourcetype: Document
 title: Customer acquisition evaluation sheet
-type: OCWFile
 uid: 803e3bfd-de92-20ab-786f-e8483f620184
 ---

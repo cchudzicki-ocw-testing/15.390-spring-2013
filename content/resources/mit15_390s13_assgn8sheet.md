@@ -9,6 +9,5 @@ parent_title: Assignment 8
 parent_type: CourseSection
 resourcetype: Document
 title: Product section evaluation sheet
-type: OCWFile
 uid: 44dd06c6-72d1-4343-3893-4f42146976f5
 ---

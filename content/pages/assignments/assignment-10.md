@@ -6,7 +6,6 @@ parent_title: Assignments
 parent_type: CourseSection
 parent_uid: b7fd99ca-2813-ae60-5f4d-b1f25cb7b022
 title: Assignment 10
-type: CourseSection
 uid: 4797e044-2691-c304-f5e1-f06be7eabf34
 ---
 

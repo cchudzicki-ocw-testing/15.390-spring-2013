@@ -9,6 +9,5 @@ parent_title: Assignment 2
 parent_type: CourseSection
 resourcetype: Document
 title: Executive summary score sheet
-type: OCWFile
 uid: bf27ca59-2dd8-f212-f2c4-a916d605f608
 ---

@@ -9,6 +9,5 @@ parent_title: Assignment 4
 parent_type: CourseSection
 resourcetype: Document
 title: Market definition evaluation sheet
-type: OCWFile
 uid: 0e6e095e-b36e-2582-e9f2-9969982aab0b
 ---

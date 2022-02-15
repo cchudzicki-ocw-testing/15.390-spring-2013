@@ -9,6 +9,5 @@ parent_title: Assignment 5
 parent_type: CourseSection
 resourcetype: Document
 title: Competition section evaluation sheet
-type: OCWFile
 uid: 73dd6614-0124-d863-2025-251401ea4bc6
 ---

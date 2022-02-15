@@ -9,6 +9,5 @@ parent_title: Assignment 9
 parent_type: CourseSection
 resourcetype: Document
 title: Financial section evaluation sheet
-type: OCWFile
 uid: b18ec118-ee7a-ebb3-f071-8c0c76178ce4
 ---

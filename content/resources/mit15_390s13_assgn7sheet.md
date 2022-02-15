@@ -9,6 +9,5 @@ parent_title: Assignment 7
 parent_type: CourseSection
 resourcetype: Document
 title: Go to market evaluation sheet
-type: OCWFile
 uid: 97594349-2d46-fdc0-bf46-34f81b150aef
 ---

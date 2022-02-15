@@ -9,6 +9,5 @@ parent_title: Assignment 3
 parent_type: CourseSection
 resourcetype: Document
 title: Target customer evaluation sheet
-type: OCWFile
 uid: 6ab41db7-4394-0c7e-fffc-f3b1547aac02
 ---

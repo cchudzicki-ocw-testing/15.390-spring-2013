@@ -9,6 +9,5 @@ parent_title: Assignment 9
 parent_type: CourseSection
 resourcetype: Other
 title: Financial_Template.xls
-type: OCWFile
 uid: f5af8dc8-e8cc-2f5f-7634-a99a976d4f56
 ---
