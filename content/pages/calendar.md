@@ -54,7 +54,7 @@ Idea generation
 Analyzing ideas and inspirations
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignment 1A due]({{< baseurl >}}/pages/assignments/assignment-1#Assignment_1A)
+{{< resource_link f6c177f0-bed7-88fd-e20f-a13f65a20945 "Assignment 1A due" "#Assignment_1A" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -66,7 +66,7 @@ Analyzing ideas and inspirations
 Speed dating for team formation
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignment 1B due]({{< baseurl >}}/pages/assignments/assignment-1#Assignment_1B)
+{{< resource_link f6c177f0-bed7-88fd-e20f-a13f65a20945 "Assignment 1B due" "#Assignment_1B" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +90,7 @@ More team formation and idea refinement
 Market segmentation & primary customer research
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignment 1C due]({{< baseurl >}}/pages/assignments/assignment-1#Assignment_1C)
+{{< resource_link f6c177f0-bed7-88fd-e20f-a13f65a20945 "Assignment 1C due" "#Assignment_1C" >}}
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -14,9 +14,9 @@ All assignments are due (in paper and submitted online) at the beginning of clas
 
 {{< resource_link f6c177f0-bed7-88fd-e20f-a13f65a20945 "Assignment 1A: Face Cards and Submit Three Ideas & Resume Online" >}}
 
-[Assignment 1B: Elevator Pitch]({{< baseurl >}}/pages/assignments/assignment-1#Assignment_1B)
+{{< resource_link f6c177f0-bed7-88fd-e20f-a13f65a20945 "Assignment 1B: Elevator Pitch" "#Assignment_1B" >}}
 
-[Assignment 1C: Team Formation]({{< baseurl >}}/pages/assignments/assignment-1#Assignment_1C)
+{{< resource_link f6c177f0-bed7-88fd-e20f-a13f65a20945 "Assignment 1C: Team Formation" "#Assignment_1C" >}}
 
 {{< resource_link 49a06342-43bd-6608-1f95-cbbcc0693d27 "Assignment 2: Executive Summary (version 1.0)" >}}
 
