@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/15-390-new-enterprises-spring-2013/39fba2486f6a55b0b083067c18bb17f2_NS0pxSF0Kmo.vtt
+file: /courses/15-390-new-enterprises-spring-2013/39fba2486f6a55b0b083067c18bb17f2_NS0pxSF0Kmo.vtt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

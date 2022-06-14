@@ -27,3 +27,4 @@ video_metadata:
 **Descriptions:** Discussion of the process for performing market segmentation in a rigorous manner.
 
 **Instructor:** Bill Aulet
+

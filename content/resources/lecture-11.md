@@ -27,3 +27,4 @@ video_metadata:
 **Descriptions:** Discussion of a method that you can pursue to go from passion to idea or technology, and key questions that you should ask yourself as you make that leap.
 
 **Instructor:** Bill Aulet
+

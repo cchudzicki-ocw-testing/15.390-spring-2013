@@ -27,3 +27,4 @@ video_metadata:
 **Descriptions:** Discussion of what is the single necessary and sufficient condition for a business and why it is so important for aspiring entrepreneurs to focus primarily on this condition.
 
 **Instructor:** Bill Aulet
+

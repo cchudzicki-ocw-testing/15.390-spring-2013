@@ -27,3 +27,4 @@ video_metadata:
 **Descriptions:** Description of the concept of the beachhead market, and its importance and place in the entrepreneurial journey.
 
 **Instructor:** Bill Aulet
+

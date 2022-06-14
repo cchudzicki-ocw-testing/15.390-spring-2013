@@ -27,3 +27,4 @@ video_metadata:
 **Descriptions:** Discussion of the three key ways to start a company: passion, idea, technology.
 
 **Instructor:** Bill Aulet
+

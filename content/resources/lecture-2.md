@@ -27,3 +27,4 @@ video_metadata:
 **Descriptions:** Discussion of the essential difference between invention and innovation, and the important role played by commercialization in innovation.
 
 **Instructor:** Bill Aulet
+
