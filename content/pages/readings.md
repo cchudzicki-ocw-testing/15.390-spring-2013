@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section details the readings for the course by session and topic.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

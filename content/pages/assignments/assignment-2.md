@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides instructions for an assignment to write a first
+  draft of an executive summary of a business plan.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

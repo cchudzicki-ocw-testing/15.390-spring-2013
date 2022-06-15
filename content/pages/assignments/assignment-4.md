@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides instructions for an assignment on market definition.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

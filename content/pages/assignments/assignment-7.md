@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides instructions for an assignment to create a "go
+  to makret section" of a business plan.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

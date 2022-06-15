@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes detailed descriptions of each of the 12 assignments
+  for the course, along with evaluation sheets for peer review.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

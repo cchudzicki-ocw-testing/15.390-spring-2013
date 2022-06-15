@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides instructions for an assignment to create a product
+  section for a business plan.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

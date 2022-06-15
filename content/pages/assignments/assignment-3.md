@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides instructions for an assignment to find a team adviser,
+  prepare a description of a target customer, and create slides to articulate your
+  company's value proposition.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

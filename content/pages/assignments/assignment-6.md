@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides instructions for an assignment on customer acquisition
+  analysis.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
