@@ -5,6 +5,7 @@ file: /courses/15-390-new-enterprises-spring-2013/b18ec118ee7aebb3f0718c0c76178c
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignment 9
 parent_type: CourseSection
